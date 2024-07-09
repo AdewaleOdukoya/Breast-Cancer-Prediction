@@ -10,7 +10,7 @@
 8. Contact
 
 ## Project Overview
-This project involves building a machine learning model to predict breast cancer using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. The primary objective is to classify tumors as malignant or benign based on various features extracted from .
+This project involves building a machine learning model to predict breast cancer using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. The primary objective is to classify tumors as malignant or benign based on various features extracted from test parameters taken from patients.
 ## Dataset
 #### Name: Wisconsin Diagnostic Breast Cancer (WDBC)
 #### File: wdbc.csv
