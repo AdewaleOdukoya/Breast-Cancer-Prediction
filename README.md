@@ -50,6 +50,6 @@ improvements or bug fixes.
 ## Contact
 ##### For questions or suggestions, please reach out to:
 
-##### Your Name: adewaleusmail@gmail.com
+##### Email: adewaleusmail@gmail.com
 ##### GitHub: AdewaleOdukoya
 
