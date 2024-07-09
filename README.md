@@ -37,11 +37,11 @@ with open('BreastCancerProjectapt1.pkl', 'rb') as file:
 predictions = model.predict(your_data)
 ## Model
 ##### File: BreastCancerProjectapt1.pkl
-Description: This is the pre-trained machine learning model for predicting breast cancer 
-diagnosis. It was trained and evaluated using various algorithms, with the final model chosen 
-based on performance metrics.
+##### Description: This is the pre-trained machine learning model for predicting breast cancer 
+##### diagnosis. It was trained and evaluated using various algorithms, with the final model chosen 
+##### based on performance metrics.
 ## Results
-##### Detailed results and analysis are provided in the Breast Cancer Aptech1.pdf report. 
+Detailed results and analysis are provided in the Breast Cancer Aptech1.pdf report. 
 This includes performance metrics, visualizations, and insights derived from the model's 
 predictions.
 ## Contributing
